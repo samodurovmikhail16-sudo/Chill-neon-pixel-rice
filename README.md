@@ -123,6 +123,7 @@ cp -r hypr/* ~/.config/hypr/
 cp -r waybar/* ~/.config/waybar/
 cp -r rofi/* ~/.config/rofi/
 cp -r kitty/* ~/.config/kitty/
+
 ```
 
 ### 4. Адаптируйте под своё железо и примените
