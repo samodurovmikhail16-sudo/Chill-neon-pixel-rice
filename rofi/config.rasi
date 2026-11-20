@@ -1,0 +1,17 @@
+configuration {
+    modes: "drun,run,window";
+    show-icons: false;
+    
+    /* Чистые текстовые приглашения без эмодзи */
+    display-drun: "SYS ::";
+    display-run: "CMD ::";
+    display-window: "WIN ::";
+    
+    drun-display-format: "{name}";
+    sort: true;
+    sorting-method: "fzf";
+}
+
+@theme "~/.config/rofi/pixel.rasi"
+
+
